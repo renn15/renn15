@@ -21,3 +21,6 @@
 
 * Game Development
     * Platform: TBD
+
+* Data Science / Algorithms + Competitive Programming
+    * Platform: Leetcode, Toki.id
